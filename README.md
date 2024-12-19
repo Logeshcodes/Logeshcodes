@@ -1,5 +1,6 @@
 
-<img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif"/>
+<img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="1128"/>
+
 
 # Hi there! 👋 I'm Logesh 
 ### A passionate Full-Stack Developer diving deep into the MERN stack and modern technologies  
