@@ -1,3 +1,6 @@
+
+<img src="https://res.cloudinary.com/dscycqmhw/image/upload/v1708174646/Codefeast/Courses/wtqss28inwyucb30m0hd.gif" width="128"/>
+
 # Hi there! 👋 I'm Logesh 
 ### A passionate Full-Stack Developer diving deep into the MERN stack and modern technologies  
 
