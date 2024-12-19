@@ -34,7 +34,6 @@ I thrive on building **interactive web apps**, designing **scalable backends**, 
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="Nginx"/>
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/>
@@ -45,7 +44,6 @@ I thrive on building **interactive web apps**, designing **scalable backends**, 
 ### 📫 How to Reach Me  
 - 📧 Email: [logeshc18022002@gmail.com](mailto:logeshc18022002@gmail.com)  
 - 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/logesh-c-a7a780262/)  
-- 🌐 Portfolio: [My Portfolio](https://logeshcodes.github.io/myportfolio.github.io/)  
 
 ---
 
