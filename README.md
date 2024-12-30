@@ -39,7 +39,7 @@ I thrive on building **interactive web apps**, designing **scalable backends**, 
 <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSONwebtokens" alt="JWT"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSONwebtokens" alt="jwt"/>
 <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/>
