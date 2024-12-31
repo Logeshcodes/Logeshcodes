@@ -10,7 +10,6 @@ I thrive on building **interactive web apps**, designing **scalable backends**, 
 🌟 **Passionate About**  
 - Crafting seamless user experiences with **React**  
 - Developing efficient and robust backend solutions with **Node.js & Express**  
-- Exploring creative design using **Blender** and **Photoshop**  
 
 💻 **What I’m Learning**  
 - Advanced concepts in the MERN stack  
