@@ -45,7 +45,7 @@ I thrive on building **interactive web apps**, designing **scalable backends**, 
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
+<img src="https://img.shields.io/badge/Hackolade-%230058A6.svg?style=flat&logo=hackolade&logoColor=white" alt="Hackolade"/>
 </p>
 
 ---
