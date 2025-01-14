@@ -52,8 +52,8 @@ I thrive on building **interactive web apps**, designing **scalable backends**, 
 ---
 
 ### 📫 How to Reach Me  
-- 📧 Email: [logeshc18022002@gmail.com](mailto:logeshc18022002@gmail.com)  
-- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/logesh-c-a7a780262/)  
+- 📧 Email : [logeshc18022002@gmail.com](mailto:logeshc18022002@gmail.com)  
+- 💼 LinkedIn : [My Profile](https://www.linkedin.com/in/logesh-c-a7a780262/)  
 
 ---
 
